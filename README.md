@@ -11,7 +11,8 @@ Node v8 should be good
 
 ## Future work
 
-- Fix structure
+- Fix file structure
+- Fix collision on start
 - Extract main "engine"
 - Add scoring
 - Fix boundary
