@@ -1,6 +1,7 @@
 # snack
 did you know snakes swallow their food whole?
 
+`npm install`
 `npm run start`
 
 ## Requirements
